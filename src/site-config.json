@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Cariboo Industrial Electric",
+    "phone": "+14047131926",
+    "category": "electrical contractor",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Powering Atlanta's Industry",
+      "heroSubline": "Reliable electrical solutions for commercial and industrial clients across metro Atlanta. We deliver quality workmanship and lasting results, guaranteed.",
+      "aboutTitle": "Decades of Atlanta Electrical Expertise",
+      "aboutText": [
+        "Cariboo Industrial Electric was founded over a decade ago by seasoned electricians who saw a need for specialized expertise in the Atlanta commercial sector. We're not a jack-of-all-trades; we focus on delivering top-tier industrial and commercial electrical services, handling the complexities others can't.",
+        "Our approach is simple: understand the unique needs of each client, develop a robust plan, and execute with precision. We prioritize safety above all else, adhering to the highest industry standards and local codes. From initial consultation to project completion, we maintain open communication and transparency.",
+        "We're deeply invested in the Atlanta community. We actively support local vocational programs, mentoring aspiring electricians and contributing to a skilled workforce. We believe in building strong relationships with our clients and partners, fostering growth and prosperity for the region."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Technicians",
+          "description": "Our team comprises licensed and experienced electricians, well-versed in commercial and industrial electrical systems."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical problems don't wait for business hours. We offer round-the-clock emergency support to minimize downtime."
+        },
+        {
+          "title": "Safety First",
+          "description": "We adhere to strict safety protocols and prioritize the well-being of our team and your property."
+        },
+        {
+          "title": "Guaranteed Workmanship",
+          "description": "We stand behind our work with a solid guarantee, ensuring your complete satisfaction."
+        }
+      ],
+      "ctaHeadline": "Get a Free Electrical Estimate",
+      "ctaSubline": "Discuss your project with our experts and receive a detailed, no-obligation estimate."
+    },
+    "services": [
+      {
+        "slug": "commercial-electrical-installations",
+        "name": "Commercial Electrical Installations",
+        "shortDescription": "Expert electrical installations for new commercial construction and renovations.",
+        "description": "We specialize in comprehensive electrical installations for commercial properties throughout Atlanta. From initial design and planning to final wiring and testing, our team ensures your project is completed safely, efficiently, and to code. We handle everything from power distribution systems and lighting design to specialized equipment wiring and backup generator installations. Our experience in Atlanta's diverse commercial landscape, from the high-rises of Buckhead to the historic buildings of Inman Park, allows us to tailor our services to your specific needs. We understand the importance of minimizing disruptions to your business, so we work diligently to complete projects on time and within budget. We also take into account the unique challenges presented by Atlanta's climate, such as the need for robust surge protection to safeguard against frequent thunderstorms.",
+        "process": [
+          "Step 1: Consultation and Needs Assessment",
+          "Step 2: Detailed Design and Planning",
+          "Step 3: Professional Installation and Wiring",
+          "Step 4: Thorough Testing and Inspection"
+        ],
+        "benefits": [
+          "Code-compliant installations",
+          "Energy-efficient solutions",
+          "Reduced downtime",
+          "Enhanced safety"
+        ],
+        "faq": [
+          {
+            "question": "What types of commercial properties do you service?",
+            "answer": "We serve a wide range of commercial properties, including office buildings, retail spaces, restaurants, warehouses, and industrial facilities."
+          },
+          {
+            "question": "Do you handle electrical permits?",
+            "answer": "Yes, we manage all necessary electrical permits and inspections to ensure compliance with local regulations."
+          },
+          {
+            "question": "What is the typical turnaround time for a commercial installation?",
+            "answer": "Turnaround time varies depending on the scope and complexity of the project. We provide a detailed timeline during the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "industrial-electrical-services",
+        "name": "Industrial Electrical Services",
+        "shortDescription": "Reliable electrical solutions for industrial facilities, minimizing downtime and maximizing efficiency.",
+        "description": "Cariboo Industrial Electric provides comprehensive electrical services for industrial facilities across the Atlanta metro area. We understand the critical importance of maintaining uninterrupted power supply in demanding industrial environments. Our team is equipped to handle complex electrical systems, including high-voltage equipment, motor controls, and automated machinery. We specialize in troubleshooting electrical faults, performing preventative maintenance, and upgrading outdated systems to enhance efficiency and safety. We're familiar with the electrical demands of Atlanta's diverse industrial sector, from food processing plants to manufacturing facilities. We also understand the impact of Atlanta's humid climate on electrical equipment, and we implement strategies to mitigate corrosion and ensure long-term reliability. Our goal is to minimize downtime, optimize energy consumption, and keep your operations running smoothly.",
+        "process": [
+          "Step 1: Thorough System Assessment",
+          "Step 2: Customized Maintenance Plan",
+          "Step 3: Proactive Preventative Maintenance",
+          "Step 4: 24/7 Emergency Repairs"
+        ],
+        "benefits": [
+          "Reduced equipment downtime",
+          "Lower energy costs",
+          "Improved safety",
+          "Extended equipment lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What types of industrial equipment do you service?",
+            "answer": "We service a wide range of industrial equipment, including motors, generators, transformers, control panels, and automated machinery."
+          },
+          {
+            "question": "Do you offer thermal imaging services?",
+            "answer": "Yes, we use thermal imaging to detect potential electrical hotspots and prevent equipment failures."
+          },
+          {
+            "question": "Can you help us upgrade our lighting to LED?",
+            "answer": "Absolutely. We can design and install energy-efficient LED lighting systems to reduce your energy consumption and improve visibility."
+          }
+        ]
+      },
+      {
+        "slug": "generator-installation-repair",
+        "name": "Generator Installation & Repair",
+        "shortDescription": "Ensure uninterrupted power with our expert generator services.",
+        "description": "Atlanta's unpredictable weather, especially during spring thunderstorm season, can lead to frequent power outages. Cariboo Industrial Electric offers comprehensive generator services to keep your business running smoothly, no matter the weather. We specialize in the installation, maintenance, and repair of commercial and industrial generators. Our team can help you select the right generator size and type for your specific needs, ensuring reliable backup power during outages. We also provide regular maintenance services to keep your generator in peak condition, minimizing the risk of unexpected failures. And in the event of a breakdown, our 24/7 emergency repair service is available to get you back up and running quickly. We understand the importance of reliable backup power for businesses in Atlanta, and we're committed to providing top-quality generator services.",
+        "process": [
+          "Step 1: Load Calculation and Sizing",
+          "Step 2: Professional Installation and Wiring",
+          "Step 3: Regular Maintenance and Testing",
+          "Step 4: 24/7 Emergency Repairs"
+        ],
+        "benefits": [
+          "Uninterrupted power supply",
+          "Reduced downtime during outages",
+          "Protection of sensitive equipment",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What size generator do I need?",
+            "answer": "The size of the generator depends on your specific power requirements. We can perform a load calculation to determine the appropriate size for your business."
+          },
+          {
+            "question": "How often should I have my generator serviced?",
+            "answer": "We recommend regular maintenance at least once a year to ensure optimal performance and reliability."
+          },
+          {
+            "question": "Do you offer remote monitoring services?",
+            "answer": "Yes, we offer remote monitoring services to track generator performance and detect potential issues before they become major problems."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Upgrade your electrical panel for improved safety and performance.",
+        "description": "Is your electrical panel outdated or overloaded? Cariboo Industrial Electric specializes in electrical panel upgrades for commercial and industrial properties in Atlanta. An outdated panel can be a safety hazard, increasing the risk of electrical fires and equipment damage. Overloaded panels can cause breakers to trip frequently, disrupting your operations. Our team can assess your current electrical panel and recommend the appropriate upgrade to meet your power demands. We handle everything from panel replacement to circuit breaker upgrades, ensuring your electrical system is safe, reliable, and code-compliant. We understand the unique electrical needs of businesses in Atlanta, and we're committed to providing top-quality panel upgrade services.",
+        "process": [
+          "Step 1: Panel Assessment and Load Calculation",
+          "Step 2: Panel Selection and Design",
+          "Step 3: Professional Installation and Wiring",
+          "Step 4: Thorough Testing and Inspection"
+        ],
+        "benefits": [
+          "Improved safety",
+          "Increased electrical capacity",
+          "Reduced risk of electrical fires",
+          "Enhanced equipment performance"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Signs that you may need an upgrade include frequent breaker trips, flickering lights, and outdated equipment."
+          },
+          {
+            "question": "How long does it take to upgrade an electrical panel?",
+            "answer": "The duration of the upgrade depends on the complexity of the project. We provide a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need to shut down my business during the upgrade?",
+            "answer": "We work to minimize disruptions to your business. In some cases, we can perform the upgrade after hours or on weekends."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-design-installation",
+        "name": "Commercial Lighting Design & Installation",
+        "shortDescription": "Enhance your business with our professional lighting solutions.",
+        "description": "Effective lighting is essential for creating a safe, productive, and inviting environment for your business. Cariboo Industrial Electric offers comprehensive lighting design and installation services for commercial properties throughout Atlanta. We can help you choose the right lighting fixtures and layouts to maximize energy efficiency, improve visibility, and enhance the aesthetics of your space. Our team is experienced in installing a wide range of lighting systems, including LED lighting, recessed lighting, track lighting, and outdoor lighting. We understand the importance of lighting design in Atlanta's diverse commercial landscape, and we're committed to providing top-quality lighting solutions that meet your specific needs.",
+        "process": [
+          "Step 1: Lighting Consultation and Design",
+          "Step 2: Fixture Selection and Procurement",
+          "Step 3: Professional Installation and Wiring",
+          "Step 4: Testing and Optimization"
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Enhanced aesthetics",
+          "Increased safety",
+          "Reduced maintenance costs"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of LED lighting?",
+            "answer": "LED lighting is more energy-efficient, longer-lasting, and more durable than traditional lighting options."
+          },
+          {
+            "question": "Can you help me design a lighting system for my retail store?",
+            "answer": "Yes, we can design a custom lighting system to highlight your products and create an inviting shopping experience."
+          },
+          {
+            "question": "Do you offer outdoor lighting services?",
+            "answer": "Yes, we offer a full range of outdoor lighting services, including security lighting, landscape lighting, and parking lot lighting."
+          }
+        ]
+      },
+      {
+        "slug": "data-cabling-networking",
+        "name": "Data Cabling & Networking",
+        "shortDescription": "Reliable data cabling and networking solutions for seamless connectivity.",
+        "description": "In today's digital age, a robust and reliable network infrastructure is essential for any business. Cariboo Industrial Electric provides comprehensive data cabling and networking services for commercial properties throughout Atlanta. We specialize in the installation, testing, and maintenance of data cabling systems, ensuring seamless connectivity for your computers, phones, and other devices. Our team is experienced in working with a variety of cabling types, including Cat5e, Cat6, and fiber optic cabling. We also offer network design and configuration services to optimize your network performance. We understand the importance of a reliable network for businesses in Atlanta, and we're committed to providing top-quality data cabling and networking solutions.",
+        "process": [
+          "Step 1: Network Assessment and Design",
+          "Step 2: Cabling Installation and Termination",
+          "Step 3: Network Configuration and Testing",
+          "Step 4: Ongoing Maintenance and Support"
+        ],
+        "benefits": [
+          "Improved network performance",
+          "Increased data transfer speeds",
+          "Enhanced reliability",
+          "Reduced downtime"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between Cat5e and Cat6 cabling?",
+            "answer": "Cat6 cabling offers higher performance and faster data transfer speeds than Cat5e cabling."
+          },
+          {
+            "question": "Do you offer fiber optic cabling services?",
+            "answer": "Yes, we offer a full range of fiber optic cabling services, including installation, termination, and testing."
+          },
+          {
+            "question": "Can you help me troubleshoot my network problems?",
+            "answer": "Yes, we offer network troubleshooting services to identify and resolve network issues."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-maintenance-repair",
+        "name": "Electrical Maintenance & Repair",
+        "shortDescription": "Keep your electrical systems running smoothly with our expert maintenance and repair services.",
+        "description": "Cariboo Industrial Electric provides comprehensive electrical maintenance and repair services for commercial and industrial properties across the Atlanta metro area. We understand that proactive maintenance is key to preventing costly breakdowns and ensuring the safety of your electrical systems. Our team offers a variety of maintenance services, including routine inspections, thermal imaging, and equipment testing. We also provide 24/7 emergency repair services to address unexpected electrical problems quickly and efficiently. Whether you need a minor repair or a major system overhaul, our team is equipped to handle any electrical challenge. We're familiar with the unique electrical needs of businesses in Atlanta, and we're committed to providing top-quality maintenance and repair services.",
+        "process": [
+          "Step 1: Thorough System Inspection",
+          "Step 2: Detailed Diagnostic Testing",
+          "Step 3: Efficient Repair and Replacement",
+          "Step 4: Performance Verification"
+        ],
+        "benefits": [
+          "Reduced downtime",
+          "Lower energy costs",
+          "Improved safety",
+          "Extended equipment lifespan"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my electrical systems inspected?",
+            "answer": "We recommend routine inspections at least once a year to identify potential problems early."
+          },
+          {
+            "question": "What is thermal imaging?",
+            "answer": "Thermal imaging uses infrared technology to detect heat signatures, which can indicate potential electrical problems."
+          },
+          {
+            "question": "Do you offer emergency repair services?",
+            "answer": "Yes, we offer 24/7 emergency repair services to address unexpected electrical problems quickly and efficiently."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Marietta",
+        "slug": "marietta-ga",
+        "state": "GA",
+        "content": "Cariboo Industrial Electric is proud to offer comprehensive electrical services to the residents and businesses of Marietta, Georgia.  Known for its charming downtown square and historical significance, Marietta boasts a diverse mix of residential and commercial properties.  Many of the homes in Marietta are located in established subdivisions dating back to the 1960s and 70s, which often require electrical upgrades to meet modern demands and safety standards. We are equipped to handle everything from knob and tube wiring replacement to panel upgrades and landscape lighting installations. \n\nAs a trusted Atlanta-area electrical contractor, Cariboo Industrial Electric understands the unique electrical needs of Marietta residents. The hot, humid Georgia summers place a significant strain on electrical systems, requiring robust and reliable solutions. Whether you need assistance with air conditioning wiring, surge protection, or routine maintenance, our team of experienced electricians is dedicated to providing exceptional service and ensuring your electrical systems are safe and efficient.",
+        "localContext": "Marietta's blend of historic properties and modern businesses creates unique electrical challenges.  We provide tailored solutions to fit the specific needs of this vibrant city.",
+        "nearbyAreas": [
+          "Smyrna",
+          "Kennesaw",
+          "Roswell"
+        ]
+      },
+      {
+        "city": "Roswell",
+        "slug": "roswell-ga",
+        "state": "GA",
+        "content": "Cariboo Industrial Electric is your trusted electrical contractor serving Roswell, Georgia. Known for its upscale residential areas and thriving business community, Roswell presents unique electrical service needs. Many homes in Roswell are part of subdivisions developed in the 1980s and 90s, which often require electrical upgrades to accommodate modern technology and appliances. We specialize in providing comprehensive electrical solutions for Roswell homeowners, from wiring upgrades to smart home installations.\n\nWe understand the importance of reliable and efficient electrical systems in Roswell, especially during the hot and humid summers. Cariboo Industrial Electric offers a full range of services, including air conditioning wiring, generator installations, and surge protection. Our experienced electricians are committed to providing top-quality workmanship and exceptional customer service to ensure your electrical needs are met with professionalism and expertise.",
+        "localContext": "Roswell's upscale subdivisions and growing businesses demand reliable and efficient electrical solutions.  We are committed to providing the highest quality service to meet those needs.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Marietta",
+          "Sandy Springs"
+        ]
+      },
+      {
+        "city": "Alpharetta",
+        "slug": "alpharetta-ga",
+        "state": "GA",
+        "content": "Cariboo Industrial Electric is proud to serve the growing community of Alpharetta, Georgia, with top-notch electrical services. Alpharetta is known for its upscale developments built primarily in the 1990s and 2000s, which often feature complex electrical systems and advanced technology.  We specialize in providing electrical solutions for modern homes and businesses in Alpharetta, including smart home automation, energy-efficient lighting, and whole-house surge protection.\n\nWe are familiar with the specific electrical needs of Alpharetta residents, especially during the intense Georgia summers. Cariboo Industrial Electric offers a full range of services to ensure your electrical systems are running smoothly, including air conditioning wiring, generator maintenance, and electrical panel upgrades. Our team of experienced electricians is dedicated to providing reliable and professional service to the Alpharetta community.",
+        "localContext": "Alpharetta's modern homes and businesses rely on advanced electrical systems. We provide expert services to ensure these systems operate safely and efficiently.",
+        "nearbyAreas": [
+          "Roswell",
+          "Johns Creek",
+          "Milton"
+        ]
+      },
+      {
+        "city": "Johns Creek",
+        "slug": "johns-creek-ga",
+        "state": "GA",
+        "content": "Cariboo Industrial Electric is a leading provider of electrical services in Johns Creek, Georgia.  Home to many upscale subdivisions developed in the 1990s and 2000s, Johns Creek requires sophisticated electrical solutions for modern living. We offer comprehensive electrical services tailored to the needs of Johns Creek residents, including smart home installations, electrical panel upgrades, and landscape lighting.\n\nWe understand the demands placed on electrical systems during the hot, humid summers in Johns Creek. Cariboo Industrial Electric provides a full range of services to ensure your home's electrical system is reliable and efficient, including air conditioning wiring, generator maintenance, and surge protection. Our commitment to quality workmanship and customer satisfaction makes us the preferred choice for electrical services in Johns Creek.",
+        "localContext": "Johns Creek's upscale homes require advanced electrical systems and expert service. We are dedicated to providing the highest quality electrical solutions to this community.",
+        "nearbyAreas": [
+          "Alpharetta",
+          "Suwanee",
+          "Duluth"
+        ]
+      },
+      {
+        "city": "Kennesaw",
+        "slug": "kennesaw-ga",
+        "state": "GA",
+        "content": "Cariboo Industrial Electric is proud to offer electrical services to the residents and businesses of Kennesaw, Georgia. Kennesaw, known for its historical landmarks and suburban developments from the 1980s and 90s, presents a variety of electrical needs. We specialize in providing comprehensive electrical solutions, from wiring upgrades in older homes to new installations in modern constructions.\n\nWe understand the importance of reliable electrical systems in Kennesaw, especially during the hot Georgia summers. Cariboo Industrial Electric offers a full range of services to meet those needs, including air conditioning wiring, surge protection, and generator installation. Our experienced electricians are dedicated to providing top-quality workmanship and exceptional customer service to ensure your electrical needs are met efficiently and professionally.",
+        "localContext": "Kennesaw's mix of established homes and growing businesses requires a dependable electrical contractor. We are committed to providing the best electrical service in the area.",
+        "nearbyAreas": [
+          "Marietta",
+          "Acworth",
+          "Smyrna"
+        ]
+      },
+      {
+        "city": "Sandy Springs",
+        "slug": "sandy-springs-ga",
+        "state": "GA",
+        "content": "Cariboo Industrial Electric proudly serves the vibrant community of Sandy Springs, GA, offering a comprehensive range of electrical services. Sandy Springs features a mix of established neighborhoods and modern developments, requiring a diverse skillset from electrical contractors. We excel in providing solutions for both residential and commercial properties, from wiring upgrades to new construction electrical installations.\n\nWe understand the specific needs of Sandy Springs residents and businesses, particularly during the demanding summer months. Cariboo Industrial Electric provides essential services such as air conditioning wiring, surge protection, and generator maintenance to ensure your electrical systems are reliable and efficient. Our experienced team is dedicated to delivering exceptional workmanship and outstanding customer service to the Sandy Springs community.",
+        "localContext": "Sandy Springs' diverse mix of properties demands a versatile and reliable electrical contractor. We tailor our services to meet the specific needs of this dynamic city.",
+        "nearbyAreas": [
+          "Roswell",
+          "Dunwoody",
+          "Atlanta"
+        ]
+      },
+      {
+        "city": "Dunwoody",
+        "slug": "dunwoody-ga",
+        "state": "GA",
+        "content": "Cariboo Industrial Electric is a trusted provider of electrical services in Dunwoody, Georgia. Dunwoody offers a variety of residential and commercial properties, each with unique electrical needs. We provide a wide range of services, including electrical panel upgrades, lighting installations, and wiring repairs. Our team is equipped to handle any electrical project, big or small.\n\nWe know that Dunwoody residents and businesses rely on dependable electrical systems throughout the year. Cariboo Industrial Electric offers services to keep your electrical systems running smoothly, including air conditioning wiring, surge protection, and generator maintenance. We are committed to providing high-quality workmanship and exceptional customer service.",
+        "localContext": "Dunwoody's diverse electrical needs require a skilled and reliable contractor. We are dedicated to providing the best electrical solutions to this community.",
+        "nearbyAreas": [
+          "Sandy Springs",
+          "Roswell",
+          "Brookhaven"
+        ]
+      },
+      {
+        "city": "Smyrna",
+        "slug": "smyrna-ga",
+        "state": "GA",
+        "content": "Cariboo Industrial Electric is your go-to electrical contractor for Smyrna, Georgia. Smyrna is a rapidly growing city with a mix of older homes and new developments. We specialize in providing electrical solutions for Smyrna residents, including wiring upgrades, lighting installations, and electrical panel replacements. Our team is committed to ensuring your electrical systems are safe and reliable.\n\nWe understand the importance of having a dependable electrical system and are committed to serving the Smyrna community with excellent workmanship and customer service. We offer a full range of services, including air conditioning wiring, surge protection, and generator maintenance, to keep your electrical systems running smoothly.",
+        "localContext": "Smyrna's growth requires a reliable electrical contractor. We are proud to offer top-quality electrical solutions to the Smyrna community.",
+        "nearbyAreas": [
+          "Marietta",
+          "Vinings",
+          "Atlanta"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Commercial Electrical Installation",
+        "text": "Cariboo Industrial Electric did a fantastic job installing the electrical system for our new restaurant in Midtown. They were professional, efficient, and the quality of their work was outstanding. Highly recommended!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Generator Repair",
+        "text": "Our generator failed during a power outage, and Cariboo Industrial Electric came to the rescue. They arrived quickly, diagnosed the problem, and had the generator running again in no time. Their 24/7 emergency service is a lifesaver!",
+        "date": "2025-04-02"
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "service": "Electrical Panel Upgrade",
+        "text": "We recently upgraded our electrical panel with Cariboo Industrial Electric. The process was smooth and efficient. The team was professional and answered all of our questions. Very pleased with the results.",
+        "date": "2025-05-10"
+      },
+      {
+        "name": "Jessica M.",
+        "rating": 5,
+        "service": "Lighting Design & Installation",
+        "text": "Cariboo Industrial Electric transformed our office space with their expert lighting design and installation services. The new lighting is more energy-efficient, brighter, and creates a much more pleasant work environment.",
+        "date": "2025-06-22"
+      },
+      {
+        "name": "Robert P.",
+        "rating": 5,
+        "service": "Data Cabling",
+        "text": "Cariboo Industrial Electric did an excellent job running new data cables throughout our building. The team was professional, organized, and completed the project on time and within budget. Our network is now faster and more reliable.",
+        "date": "2025-07-01"
+      },
+      {
+        "name": "Ashley G.",
+        "rating": 4,
+        "service": "Electrical Maintenance",
+        "text": "We hired Cariboo Industrial Electric for routine electrical maintenance, and they did a thorough job inspecting our systems. They identified a potential problem with a transformer and fixed it before it caused a major outage. Very professional!",
+        "date": "2025-08-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Atlanta Electrical Contractor | Cariboo Electric",
+        "description": "Expert commercial and industrial electrical services in Atlanta, GA. Installations, repairs, generators, lighting. Call 404-713-1926 for a free estimate."
+      },
+      "about": {
+        "title": "About Cariboo Industrial Electric | Atlanta, GA",
+        "description": "Learn about Cariboo Industrial Electric, your trusted Atlanta electrical contractor. Decades of experience, safety-focused, and community-driven."
+      },
+      "services": {
+        "title": "Electrical Services | Atlanta, GA | Cariboo Electric",
+        "description": "Comprehensive electrical services for commercial and industrial clients in Atlanta. Installations, repairs, maintenance, and more."
+      },
+      "contact": {
+        "title": "Contact Cariboo Industrial Electric | Atlanta, GA",
+        "description": "Contact Cariboo Industrial Electric for all your electrical needs in Atlanta. Call us at 404-713-1926 or submit an online request."
+      },
+      "reviews": {
+        "title": "Cariboo Electric Reviews | Atlanta Electrical Contractor",
+        "description": "Read reviews from satisfied customers of Cariboo Industrial Electric in Atlanta, GA. Quality workmanship and reliable service guaranteed."
+      },
+      "service-areas": {
+        "title": "Service Areas | Cariboo Electric | Atlanta, GA",
+        "description": "Cariboo Industrial Electric proudly serves Atlanta, Marietta, Roswell, Alpharetta, Johns Creek, and Kennesaw. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "commercial-electrical-installations": "/images/service-commercial-electrical-installations.webp",
+      "industrial-electrical-services": "/images/service-industrial-electrical-services.webp",
+      "generator-installation-repair": "/images/service-generator-installation-repair.webp",
+      "electrical-panel-upgrades": "/images/service-electrical-panel-upgrades.webp",
+      "lighting-design-installation": "/images/service-lighting-design-installation.webp",
+      "data-cabling-networking": "/images/service-data-cabling-networking.webp",
+      "electrical-maintenance-repair": "/images/service-electrical-maintenance-repair.webp"
+    },
+    "servicesResponsive": {
+      "commercial-electrical-installations": {
+        "src": "/images/service-commercial-electrical-installations.webp",
+        "srcset": "/images/service-commercial-electrical-installations-400w.webp 400w, /images/service-commercial-electrical-installations-800w.webp 800w, /images/service-commercial-electrical-installations-1200w.webp 1200w, /images/service-commercial-electrical-installations.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "industrial-electrical-services": {
+        "src": "/images/service-industrial-electrical-services.webp",
+        "srcset": "/images/service-industrial-electrical-services-400w.webp 400w, /images/service-industrial-electrical-services-800w.webp 800w, /images/service-industrial-electrical-services-1200w.webp 1200w, /images/service-industrial-electrical-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "generator-installation-repair": {
+        "src": "/images/service-generator-installation-repair.webp",
+        "srcset": "/images/service-generator-installation-repair-400w.webp 400w, /images/service-generator-installation-repair-800w.webp 800w, /images/service-generator-installation-repair-1200w.webp 1200w, /images/service-generator-installation-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-panel-upgrades": {
+        "src": "/images/service-electrical-panel-upgrades.webp",
+        "srcset": "/images/service-electrical-panel-upgrades-400w.webp 400w, /images/service-electrical-panel-upgrades-800w.webp 800w, /images/service-electrical-panel-upgrades-1200w.webp 1200w, /images/service-electrical-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-design-installation": {
+        "src": "/images/service-lighting-design-installation.webp",
+        "srcset": "/images/service-lighting-design-installation-400w.webp 400w, /images/service-lighting-design-installation-800w.webp 800w, /images/service-lighting-design-installation-1200w.webp 1200w, /images/service-lighting-design-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "data-cabling-networking": {
+        "src": "/images/service-data-cabling-networking.webp",
+        "srcset": "/images/service-data-cabling-networking-400w.webp 400w, /images/service-data-cabling-networking-800w.webp 800w, /images/service-data-cabling-networking-1200w.webp 1200w, /images/service-data-cabling-networking.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-maintenance-repair": {
+        "src": "/images/service-electrical-maintenance-repair.webp",
+        "srcset": "/images/service-electrical-maintenance-repair-400w.webp 400w, /images/service-electrical-maintenance-repair-800w.webp 800w, /images/service-electrical-maintenance-repair-1200w.webp 1200w, /images/service-electrical-maintenance-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
